@@ -1,2 +1,2 @@
-# System14
-for buffer6.0 project of Unified CPU Scheduling system..
+# CPU Scheduling system using java
+"Created Unified CPU Scheduling system for different systems simulation"
